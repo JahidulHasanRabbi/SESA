@@ -1,0 +1,19 @@
+Customer:
+1. root@gmail.com
+	- root
+2. test@gmail.com
+	- test
+3. test1@gmail.com
+	- test
+4. test4@gmail.com
+	- test
+
+staff -
+1. admin@gmail.com
+	- admin
+2. admin
+	- admin
+
+Admin
+1. root
+	-root

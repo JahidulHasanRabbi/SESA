@@ -1,0 +1,248 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*prdouct*/
+.main-page {
+  margin-top: 20px;
+  background-color: #f8f8f8;
+}
+
+.theiaStickySidebar {
+  margin: 5px;
+  background-color: #fffefe;
+  font-size: 15px;
+  color: #000000;
+  border: 1px #333e48;
+}
+
+.brand-filter {
+  border: 1px solid #423232;   
+}
+
+.brand-name {
+  color:#000000;
+  padding: 15px;
+  background-color: #d7d7d8;
+}
+.checkbox {
+  margin-left: 5px;
+  padding: 6px 15px;
+}
+.brand_class {
+  margin: 5px;
+}
+
+/*Product*/
+
+.card {
+  width: 200px;
+  height: 320px;
+  margin: 10px 5px;
+}
+
+.card-title {
+  font-size: 14px;
+  font: 500 14px/1.35 Lato, Helvetica Neue, Helvetica, Arial, sans-serif;
+  color:#000000;
+}
+.card-title:hover {
+  color:#076fd1;
+}
+
+.card-text {
+  font-size: 130%;
+  color: #ef4932;
+  text-align: center;
+  font: bold;
+
+}
+
+.product {
+  
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgb(75 104 123 / 30%), 0 2px 4px 0 rgb(0 0 0 / 30%);
+  
+}
+
+/* Details*/
+.product-header {
+  margin: 10px 0 10px 0;
+}
+.product-title {
+  font-size: 24px;
+  color: #333;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 6px 0;
+}
+
+.metadata {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 15px;
+  font-weight: 600;
+}
+
+.metadata >li {
+  display: inline;
+  float: left;
+  position: relative;
+  margin-bottom: 0;
+}
+.brand {
+  padding-right: 15px;
+}
+.brand-name-style {
+  color: #076fd1;
+  font-size: 13px;
+}
+
+.model {
+  border-left: 1px solid #282c3f;
+  padding: 0 15px;
+}
+.col-sm-8, .col-sm-4 {
+  float: left;
+}
+
+.col-a {
+  box-sizing: border-box;
+  box-shadow: 0 8px 16px 0 rgb(75 104 123 / 20%), 0 2px 4px 0 rgb(0 0 0 / 20%);
+}
+.product-must-detail {
+  margin: 3px;
+  padding: 10px;
+}
+
+.social-media-post {
+  font-size: 35px;
+}
+.fa-whatsapp-square {
+  color: #36cc3d;
+  background-color: #ffffff;
+}
+.fa-twitter-square {
+  color: #5db2da;
+  background-color: #ffffff;
+}
+.fa-telegram {
+  color: #5db2da;
+  background-color: #ffffff;
+}
+
+.main-image >img{
+  
+  margin: 15px 10px 10px 20px;
+}
+h1 {
+  font-size: 22px;
+  font-family: Lato, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
+
+.review  p{
+  font-size: 12px;
+  color: #000000;
+}
+
+.brand-name-a {
+  
+}
+
+.brand-name-a h5{
+  font-weight: 600;
+  font-size: 14px;
+}
+.review p:hover {
+  color: #5db2da;
+}
+.product-price {
+  color: red;
+  padding: 10px;
+}
+
+.product-stock h5 {
+  font-size: 15px;
+}
+.in-stock {
+  color: green;
+}
+.out-stock {
+  color: red;
+}
+.coming {
+  color: #0400fc;
+}
+
+.warranty p {
+  font-size: 13px;
+  color: #282828;
+  font-weight: 500;
+  font-family: Lato,Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.control-cart {
+  font-weight: 600;
+  margin: 5px 0px;
+}
+
+.btn-a {
+  border: 1px solid #282c3f;
+}
+
+#qty {
+  border-radius: 5px;
+  height: 35px;
+  width: 50px;
+  text-align: center;
+  display: inline-block;
+  border: none;
+}
+
+.button-add {
+  margin: 15px 0px;
+}
+#pills-profile-tab, #pills-home-tab, #pills-contact-tab {
+  color: #000000;
+}

@@ -1,0 +1,441 @@
+@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #282c3f;
+}
+
+.mainpage {
+    background-color: #f4fcff;
+    margin-bottom: 0;
+}
+
+
+/* login */
+.page-title {
+    margin: 2px 0 0 15px;
+}
+
+.box-title {
+    margin-top: -20px;
+    margin-bottom: 1rem;
+    font-size: 1rem;
+}
+
+.box .box-body {
+    padding: 1rem;
+}
+input,
+.btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+    display: inline-block;
+    font-size: 17px;
+    line-height: 20px;
+    text-decoration: none;
+}
+
+.form-control {
+    background: #ffffff;
+    font-size: 13px;
+}
+
+.form-control input[type=text] {
+    font-size: 15px;
+}
+
+.form-login-group {
+    margin-top: 10px;
+}
+
+.facebook {
+    background: #3b5998;
+    color: white;
+}
+
+.google {
+    background: #ea4335;
+    color: white;
+}
+
+
+footer a:link {
+    text-decoration: none;
+}
+
+.btt-create {
+    color: #dcdcdc;
+}
+
+
+.social {
+    height:1rem;
+    font-size: 2em;
+    margin: auto;
+}
+
+.youtube {
+    color: red;
+}
+
+.instagram {
+    color: red;
+}
+
+.social-group {
+    padding-bottom: 20px;
+}
+
+.rights {
+    padding-bottom: 30px;
+}
+
+li {
+    margin-top: 10px;
+}
+
+header {
+    margin-top: 5px;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+a {
+    background-color: transparent;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    clear: both;
+}
+
+li {
+    text-align: -webkit-match-parent;
+
+}
+
+footer {
+    font-size: 0.8rem;
+    width: 100%;
+    background-color: lightgrey;
+    margin-top: ;
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+footer a:link {
+    text-decoration: none;
+}
+
+.social {
+    height:1rem;
+    font-size: 2em;
+    margin: auto;
+}
+
+.youtube {
+    color: red;
+}
+
+.instagram {
+    color: red;
+}
+
+.social-group {
+    padding-bottom: 20px;
+}
+
+.rights {
+    padding-bottom: 30px;
+}
+
+li {
+    margin-top: 10px;
+}
+
+header {
+    margin-top: 5px;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+}
+
+.shopmart{
+    font-weight: 600;
+    font-size: 26px;
+    color: #076fd1;
+    font-family: 'Roboto', sans-serif;;
+}
+
+
+
+.cart {
+    float: left;
+}
+
+.cart-my {
+    font-size: 13px;
+    box-sizing: border-box;
+    background: lightgrey;
+    padding: 5px;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+.login a {
+    color: black;
+    padding: 5px;
+    margin: 5px;
+    font-size: 13px;
+}
+
+.nav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-nav {
+    float: left;
+    margin: 0;
+}
+
+.navbar-nav>li>a {
+    padding: 7px 13px;
+    font-weight: 600;
+    color: #333e48;
+    line-height: 20px;
+    position: relative;
+    display: block;
+}
+
+.snd-navbar {
+    text-align: center;
+    box-sizing: border-box;
+    border-bottom: 3px solid black;
+}
+
+header {
+    margin-top: 20px;
+    box-sizing: border-box;
+    clear: both;
+}
+.dropdown-menu {
+  box-sizing: border-box;
+  background: #ffffff;
+}
+
+#home-f {
+    background: #076fd1;
+    color: white;
+    
+}
+
+#navbarDropdown {
+    color: black;
+    padding: 7px;
+    margin: 0 2px;
+}
+
+#navbarDropdown:hover {
+    color: white;
+    background: #076fd1;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.dropdown-item {
+    background: #ffffff;
+    color: #000000;
+    text-decoration: none;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.dropdown-item:hover {
+    color: #000000;
+    box-sizing: border-box;
+    background: #cecbcb;
+    padding: 10px;
+    margin: px -5px 5px 5px;
+    font-size: 11px;
+}
+
+.main-breadcrump {
+    border-bottom: 2px solid #edebef;
+    background-color: #f4f5f7;
+    padding-bottom: 5px;
+}
+
+.main-breadcrump .breadcrumb {
+    padding-left: 20px;
+    margin-bottom: 0;
+    background-color: transparent;
+    border-radius: 0;
+    font-weight: 600;
+}
+
+ol {
+    display: block;
+    list-style-type: decimal;
+}
+
+.breadcrumb-item {
+    color: #076fd1;
+}
+
+
+
+/*Carsol*/
+
+.carousel {
+    margin: auto;
+    width: 90%;
+    height: auto;
+    
+}
+
+.banner {
+    width: 90%;
+    height: auto;
+    margin: auto;
+    margin-top: 20px;
+    padding: 5px;
+}
+
+.banner:hover .banner-imag {
+    zoom: 5;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  background-size: 50%, 50%;
+  border-radius: 50%;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after
+{
+    float: right;
+    content: '>';
+    font-size: 55px;
+}
+
+.carousel-control-prev-icon:after {
+    float: left;
+    content: '<';
+    font-size: 55px;
+
+}
+
+#carouselExampleIndicators > button {  border-radius: 100%; }
+
+.product_catagory img{
+        width: 170px;
+        aspect-ratio: auto 170 / 200;
+        
+}
+
+.card {
+    width: 180px;
+    height: 330px;
+    margin: 10px 0px;
+    padding: 2px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgb(75 104 123 / 30%), 0 2px 4px 0 rgb(0 0 0 / 30%);
+}
+
+.card-title {
+    color:#282c3f;
+    margin-top: 20x;
+    font-size: 15px;
+    text-align: center;
+}
+
+.card-title:hover {
+    color:#11a0db;
+}
+
+.card-text {
+    margin-top: 10px;
+    font-size: 15px;
+    color: red;
+    text-align: center;
+}
+
+.product_catagory {
+    margin: 5px 0px;
+}
+
+.block-title {
+    margin-bottom: 30px;
+    border-bottom: 2px solid #dcdcdc;
+    font-family: Lato,Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.block-title strong {
+    border-bottom: 3px solid #11a0db;
+    font-weight: 600;
+    font-size: 18px;
+    padding-bottom: 4px;
+}
+.login-icon {
+    width: 10px;
+    height: 10px;
+}
+
+/*Dashboard Color*/
+.style-dashboard {
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    
+}
+
+.style-dashboard-row {
+    padding: 10px;
+    background-color: #D6E3F8;
+
+}
+
+.input_name {
+    background-color: #FEF5EF;
+    margin: 5px;
+    padding: 10px;
+}
+
+.row_style-boarder {
+    border-top: 5px solid black;
+}
+
+.box_search {
+    text-align: center;
+}
+
+.content{
+    margin-top: 10px;
+}
